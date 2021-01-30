@@ -21,7 +21,7 @@ Yeah. That's way I've implemented both the client and server as seperate python 
 
 
 ## Is this stable?
-yes! I've been using this method on a number of production system without issue for the past few years with no complaints of crashes. 🤞
+yes! I've been using this method on a number of production system without issue for the past few years with no complaints of crashes.
 
  **FULL DISCLOSURE**. Threading is tricky with TD. There might be some intermittent crashing during your setup process.  If you run anything open up an issue and I'll help sort it out!
 
